@@ -4,7 +4,7 @@ export class NavBar extends Component {
     render() {
         return (
             <>
-                <div className="w-[100%] h-20 bg-transparent p-5 pl-64 pr-64 flex justify-between items-center fixed bg-gray-900">
+                <div className="w-[100%] h-20 p-5 pl-64 pr-64 flex justify-between items-center fixed z-50 bg-gray-900 border-b-2 border-primary">
 
                     <h1 className="text-[25px] font-medium text-white">Flex<span className="text-primary">Fit</span></h1>
 

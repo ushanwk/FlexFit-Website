@@ -1,12 +1,19 @@
 import {Component} from "react";
-import BgImg from '../../images/SectionOne/BgImg.jpg'
+import MainImg from '../../images/SectionOne/ImgFront.png'
 
 export class SectionOne extends Component {
     render() {
         return (
             <>
-                <section className="bg-cover bg-center">
-                    <img src={BgImg} className="h-[100vh] w-[100vw]"/>
+                <section className="bg-gray-900">
+                    <div className="flex pl-64 pr-64 pt-36">
+                        <div className="bg-gray-200 flex-1">
+
+                        </div>
+                        <div className="flex-1">
+                            <img src={MainImg} className="w-[500px]"/>
+                        </div>
+                    </div>
                 </section>
             </>
         );
