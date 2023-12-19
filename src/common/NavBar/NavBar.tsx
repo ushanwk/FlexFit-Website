@@ -11,7 +11,7 @@ export class NavBar extends Component {
                     <div>
                         <nav>
                             <ul className="flex">
-                                <li className="text-[13px] font-medium text-white"><a>Home</a></li>
+                                <li className="text-[13px] font-bold text-white"><a>Home</a></li>
                                 <li className="pl-6 text-[13px] text-gray-200"><a>About</a></li>
                                 <li className="pl-6 text-[13px] text-gray-200"><a>Classes</a></li>
                                 <li className="pl-6 text-[13px] text-gray-200"><a>Trainers</a></li>
