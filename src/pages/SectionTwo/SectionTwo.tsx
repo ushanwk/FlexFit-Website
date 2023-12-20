@@ -26,7 +26,7 @@ export class SectionTwo extends Component {
 
                 </section>
 
-                <section className="flex pl-64 pr-64 pt-5 justify-between">
+                <section className="flex pl-64 pr-64 pt-6 justify-between">
                     <div className="h-24 w-[280px] border-gray-300 border-[1px] rounded-[10px] flex p-4">
                         <div className="flex justify-center items-center h-100% w-[40%]">
                             <img src={Exp} className="w-[40%]"/>
