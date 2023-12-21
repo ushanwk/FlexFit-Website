@@ -15,26 +15,26 @@ export class SectionSix extends Component {
                     <h2 className="text-[15px] text-gray-400">Passionate Fitness Guide for You</h2>
 
 
-                    <div className="flex justify-between mt-20">
+                    <div className="flex justify-between mt-14">
 
                         <div>
-                            <img src={Trn1} className="h-[250px] w-[250px] rounded-[100%]"/>
-                            <h1 className="mt-8 text-[18px]">Ushan Kaushalya</h1>
+                            <img src={Trn1} className="h-[250px] w-[250px] rounded-[100%] hover:border-primary hover:border-[3px]"/>
+                            <h1 className="mt-8 text-[20px]">Ushan Kaushalya</h1>
                         </div>
 
                         <div>
-                            <img src={Trn2} className="h-[250px] w-[250px] rounded-[100%]"/>
-                            <h1 className="mt-8 text-[18px]">Ushan Kaushalya</h1>
+                            <img src={Trn2} className="h-[250px] w-[250px] rounded-[100%] hover:border-primary hover:border-[3px]"/>
+                            <h1 className="mt-8 text-[20px]">Ushan Kaushalya</h1>
                         </div>
 
                         <div>
-                            <img src={Trn4} className="h-[250px] w-[250px] rounded-[100%]"/>
-                            <h1 className="mt-8 text-[18px]">Ushan Kaushalya</h1>
+                            <img src={Trn4} className="h-[250px] w-[250px] rounded-[100%] hover:border-primary hover:border-[3px]"/>
+                            <h1 className="mt-8 text-[20px]">Ushan Kaushalya</h1>
                         </div>
 
                         <div>
-                            <img src={Trn3} className="h-[250px] w-[250px] rounded-[100%]"/>
-                            <h1 className="mt-8 text-[18px]">Ushan Kaushalya</h1>
+                            <img src={Trn3} className="h-[250px] w-[250px] rounded-[100%] hover:border-primary hover:border-[3px]"/>
+                            <h1 className="mt-8 text-[20px]">Ushan Kaushalya</h1>
                         </div>
 
                     </div>
