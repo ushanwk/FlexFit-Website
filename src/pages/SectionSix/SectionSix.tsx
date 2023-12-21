@@ -11,12 +11,28 @@ export class SectionSix extends Component {
                     <h2 className="text-[15px] text-gray-400">Passionate Fitness Guide for You</h2>
 
 
-                    <div className="flex justify-between mt-16">
+                    <div className="flex justify-between mt-20">
 
-                        <div className="h-52 w-[250px] bg-primary"></div>
-                        <div className="h-52 w-[250px] bg-primary"></div>
-                        <div className="h-52 w-[250px] bg-primary"></div>
-                        <div className="h-52 w-[250px] bg-primary"></div>
+                        <div>
+                            <div className="h-[250px] w-[250px] bg-primary rounded-[100%]"></div>
+                            <h1 className="mt-8 text-[18px]">Ushan Kaushalya</h1>
+                        </div>
+
+                        <div>
+                            <div className="h-[250px] w-[250px] bg-primary rounded-[100%]"></div>
+                            <h1 className="mt-8 text-[18px]">Jaith Kaushalya</h1>
+                        </div>
+
+                        <div>
+                            <div className="h-[250px] w-[250px] bg-primary rounded-[100%]"></div>
+                            <h1 className="mt-8 text-[18px]">Vishwa Kaushalya</h1>
+                        </div>
+
+                        <div>
+                            <div className="h-[250px] w-[250px] bg-primary rounded-[100%]"></div>
+                            <h1 className="mt-8 text-[18px]">Tharushika Nishamani</h1>
+                        </div>
+
 
                     </div>
 
