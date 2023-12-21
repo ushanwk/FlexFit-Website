@@ -5,6 +5,7 @@ import {SectionThree} from "../../pages/SectionThree/SectionThree";
 import {SectionFour} from "../../pages/SectionFour/SectionFour";
 import {SectionFive} from "../../pages/SectionFive/SectionFive";
 import {SectionSix} from "../../pages/SectionSix/SectionSix";
+import {SectionSeven} from "../../pages/SectionSeven/SectionSeven";
 
 export class MainContent extends Component {
     render() {
@@ -16,6 +17,7 @@ export class MainContent extends Component {
                 <SectionFour/>
                 <SectionFive/>
                 <SectionSix/>
+                <SectionSeven/>
             </>
         );
     }

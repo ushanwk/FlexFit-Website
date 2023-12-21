@@ -11,7 +11,7 @@ export class SectionFour extends Component {
                 <section className="flex pl-64 pr-64 pt-32">
 
                     <div className="flex-1 flex justify-center flex-col">
-                        <h1 className="text-[40px] font-medium -mt-8 mt-12">Why <span
+                        <h1 className="text-[40px] font-medium -mt-8 mt-8">Why <span
                             className="text-primary">Choose </span>Us</h1>
                         <p className="mt-1 text-gray-400">Choose us for a fitness journey like no other. Our
                             cutting-edge gym combines premium equipment, expert trainers, and a supportive community. We
