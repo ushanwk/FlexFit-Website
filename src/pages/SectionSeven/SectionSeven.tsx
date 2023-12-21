@@ -37,7 +37,7 @@ export class SectionSeven extends Component {
                                      className="h-[90px] w-[90px] rounded-[100%]"/>
                             </div>
                             <div className="h-[100%] flex-[80%] flex-col content-center pl-4 pt-5 pr-4">
-                                <h1 className="font-medium text-primary text-[16px]">Daniel Abrhum</h1>
+                                <h1 className="font-medium text-primary text-[16px]">Daniel Abrahum</h1>
                                 <p className="text-gray-400 text-[13px] pt-1">Exceptional gym! Clean facilities,
                                     friendly staff, and motivating atmosphere. Achieved great results. Highly recommend
                                     for a rewarding fitness experience!</p>
@@ -55,6 +55,7 @@ export class SectionSeven extends Component {
                                     for a rewarding fitness experience!</p>
                             </div>
                         </div>
+
                     </div>
 
                 </section>
