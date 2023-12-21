@@ -1,4 +1,8 @@
 import {Component} from "react";
+import Trn1 from '../../images/SectionSix/Trn1.png'
+import Trn2 from '../../images/SectionSix/Trn2.png'
+import Trn3 from '../../images/SectionSix/Trn3.png'
+import Trn4 from '../../images/SectionSix/Trn4.png'
 
 export class SectionSix extends Component {
     render() {
@@ -14,25 +18,24 @@ export class SectionSix extends Component {
                     <div className="flex justify-between mt-20">
 
                         <div>
-                            <div className="h-[250px] w-[250px] bg-primary rounded-[100%]"></div>
+                            <img src={Trn1} className="h-[250px] w-[250px] rounded-[100%]"/>
                             <h1 className="mt-8 text-[18px]">Ushan Kaushalya</h1>
                         </div>
 
                         <div>
-                            <div className="h-[250px] w-[250px] bg-primary rounded-[100%]"></div>
-                            <h1 className="mt-8 text-[18px]">Jaith Kaushalya</h1>
+                            <img src={Trn2} className="h-[250px] w-[250px] rounded-[100%]"/>
+                            <h1 className="mt-8 text-[18px]">Ushan Kaushalya</h1>
                         </div>
 
                         <div>
-                            <div className="h-[250px] w-[250px] bg-primary rounded-[100%]"></div>
-                            <h1 className="mt-8 text-[18px]">Vishwa Kaushalya</h1>
+                            <img src={Trn4} className="h-[250px] w-[250px] rounded-[100%]"/>
+                            <h1 className="mt-8 text-[18px]">Ushan Kaushalya</h1>
                         </div>
 
                         <div>
-                            <div className="h-[250px] w-[250px] bg-primary rounded-[100%]"></div>
-                            <h1 className="mt-8 text-[18px]">Tharushika Nishamani</h1>
+                            <img src={Trn3} className="h-[250px] w-[250px] rounded-[100%]"/>
+                            <h1 className="mt-8 text-[18px]">Ushan Kaushalya</h1>
                         </div>
-
 
                     </div>
 
