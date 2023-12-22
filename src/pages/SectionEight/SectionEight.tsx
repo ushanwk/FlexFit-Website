@@ -9,7 +9,7 @@ export class SectionEight extends Component {
         return (
             <>
 
-                <section className="pb-32 flex text-center flex-col pl-64 pr-64">
+                <section className="pb-24 flex text-center flex-col pl-64 pr-64">
 
                     <h1 className="text-[30px] font-medium mt-24">Latest <span className="text-primary">News</span>
                     </h1>
