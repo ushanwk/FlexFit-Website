@@ -10,8 +10,7 @@ export class SectionSix extends Component {
             <>
                 <section className="mt-32 pb-32 flex text-center flex-col pl-64 pr-64">
 
-                    <h1 className="text-[30px] font-medium">Our <span className="text-primary">Expert </span>Trainers
-                    </h1>
+                    <h1 className="text-[30px] font-medium">Our Expert <span className="text-primary">Trainers</span></h1>
                     <h2 className="text-[15px] text-gray-400">Passionate Fitness Guide for You</h2>
 
 
@@ -19,22 +18,22 @@ export class SectionSix extends Component {
 
                         <div>
                             <img src={Trn1} className="h-[250px] w-[250px] rounded-[100%] hover:border-primary hover:border-[3px]"/>
-                            <h1 className="mt-8 text-[20px]">Ushan Kaushalya</h1>
+                            <h1 className="mt-8 text-[20px]">John Wick</h1>
                         </div>
 
                         <div>
                             <img src={Trn2} className="h-[250px] w-[250px] rounded-[100%] hover:border-primary hover:border-[3px]"/>
-                            <h1 className="mt-8 text-[20px]">Ushan Kaushalya</h1>
+                            <h1 className="mt-8 text-[20px]">Salmon Brave</h1>
                         </div>
 
                         <div>
                             <img src={Trn4} className="h-[250px] w-[250px] rounded-[100%] hover:border-primary hover:border-[3px]"/>
-                            <h1 className="mt-8 text-[20px]">Ushan Kaushalya</h1>
+                            <h1 className="mt-8 text-[20px]">Jonathan Leesa</h1>
                         </div>
 
                         <div>
                             <img src={Trn3} className="h-[250px] w-[250px] rounded-[100%] hover:border-primary hover:border-[3px]"/>
-                            <h1 className="mt-8 text-[20px]">Ushan Kaushalya</h1>
+                            <h1 className="mt-8 text-[20px]">Brandom Maccalom</h1>
                         </div>
 
                     </div>
