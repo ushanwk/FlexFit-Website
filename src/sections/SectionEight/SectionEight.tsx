@@ -34,7 +34,7 @@ export class SectionEight extends Component {
                         <div className="w-[265px] h-80 bg-white rounded-[10px] shadow-xl text-left">
                             <img src={ImgThree} className="h-40 w-[265px] rounded-[10px]"/>
                             <h1 className="pt-5 pl-5 font-medium">Cardio Exercise</h1>
-                            <p className="pt-3 pl-5 text-[12px] text-gray-400">Elevate your fitness journey with invigorating cardio exercises. Start your path to endurance, vitality, and a healthier lifestyle at our gym.</p>
+                            <p className="pt-3 pl-5 text-[12px] text-gray-400">Elevate your fitness journey with invigorating cardio exercises. Start your path to endurance, vitality and a healthier lifestyle at our gym.</p>
                         </div>
 
                         <div className="w-[265px] h-80 bg-white rounded-[10px] shadow-xl text-left">
