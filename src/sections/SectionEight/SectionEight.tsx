@@ -28,7 +28,7 @@ export class SectionEight extends Component {
                         <div className="w-[265px] h-80 bg-white rounded-[10px] shadow-xl text-left">
                             <img src={ImgTwo} className="h-40 w-[265px] rounded-[10px]"/>
                             <h1 className="pt-5 pl-5 font-medium">Life Saving</h1>
-                            <p className="pt-3 pl-5 pr-5 text-[12px] text-gray-400">Revitalize your life with our gym's transformative programs. Experience the beginning of a healthier, stronger, and more vibrant you.</p>
+                            <p className="pt-3 pl-5 pr-5 text-[12px] text-gray-400">Revitalize your life with our gym's transformative programs. Experience the beginning of a healthier, stronger and more vibrant you.</p>
                         </div>
 
                         <div className="w-[265px] h-80 bg-white rounded-[10px] shadow-xl text-left">
