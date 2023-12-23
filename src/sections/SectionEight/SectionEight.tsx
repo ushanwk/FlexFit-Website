@@ -21,7 +21,7 @@ export class SectionEight extends Component {
                             <img src={ImgOne} className="h-40 w-[265px] rounded-[10px]"/>
                             <h1 className="pt-5 pl-5 font-medium">Yoga Beginning</h1>
                             <p className="pt-3 pl-5 pr-5 text-[12px] text-gray-400">Embark on your yoga journey with our
-                                beginner-friendly classes, fostering strength, and inner peace. Discover
+                                beginner-friendly classes, fostering strength and inner peace. Discover
                                 wellness at its start.</p>
                         </div>
 
