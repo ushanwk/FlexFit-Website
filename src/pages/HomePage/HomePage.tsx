@@ -7,13 +7,19 @@ import {SectionFive} from "../../sections/SectionFive/SectionFive";
 import {SectionSix} from "../../sections/SectionSix/SectionSix";
 import {SectionSeven} from "../../sections/SectionSeven/SectionSeven";
 import {SectionEight} from "../../sections/SectionEight/SectionEight";
-import {HomePage} from "../../pages/HomePage/HomePage";
 
-export class MainContent extends Component {
+export class HomePage extends Component {
     render() {
         return (
             <>
-               <HomePage/>
+                <SectionOne/>
+                <SectionTwo/>
+                <SectionThree/>
+                <SectionFour/>
+                <SectionFive/>
+                <SectionSix/>
+                <SectionSeven/>
+                <SectionEight/>
             </>
         );
     }
