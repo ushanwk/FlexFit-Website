@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/FlexFit-Website/static/css/main.936ae5b7.css",
+    "main.js": "/FlexFit-Website/static/js/main.a3c0eaed.js",
+    "static/js/787.ebd2aede.chunk.js": "/FlexFit-Website/static/js/787.ebd2aede.chunk.js",
+    "static/media/ImgThree.jpg": "/FlexFit-Website/static/media/ImgThree.0102bea1bd4571cc5cf4.jpg",
+    "static/media/ImgYoga.jpg": "/FlexFit-Website/static/media/ImgYoga.2391a820d8bbd2bdf5b0.jpg",
+    "static/media/ImgOne.jpg": "/FlexFit-Website/static/media/ImgOne.9356af73d96c48ba875f.jpg",
+    "static/media/ImgRun.jpg": "/FlexFit-Website/static/media/ImgRun.c165d6b7db33d1993466.jpg",
+    "static/media/ImgFreeHand.jpg": "/FlexFit-Website/static/media/ImgFreeHand.26a518d28addf90ab1d4.jpg",
+    "static/media/ImgTwo.jpg": "/FlexFit-Website/static/media/ImgTwo.4ecc7905dfbe716dd616.jpg",
+    "static/media/ImgFour.jpg": "/FlexFit-Website/static/media/ImgFour.e5b37db3f32a2f484c55.jpg",
+    "static/media/Trn4.png": "/FlexFit-Website/static/media/Trn4.708a15c464a60149e6ab.png",
+    "static/media/Trn1.png": "/FlexFit-Website/static/media/Trn1.cbe438ba4bdfd478b3aa.png",
+    "static/media/Trn3.png": "/FlexFit-Website/static/media/Trn3.98efbfe8442ab7b9c20b.png",
+    "static/media/Trn2.png": "/FlexFit-Website/static/media/Trn2.1792c20d4a5b2b1a6cc8.png",
+    "static/media/ImgFront2.png": "/FlexFit-Website/static/media/ImgFront2.acc0e5f7be0aa1caf4d2.png",
+    "static/media/ImgFront.png": "/FlexFit-Website/static/media/ImgFront.10b7e5c432e3f43a166f.png",
+    "static/media/ImgClockLogo.png": "/FlexFit-Website/static/media/ImgClockLogo.212c4965b5adc46cad80.png",
+    "static/media/ImgClock.png": "/FlexFit-Website/static/media/ImgClock.590a0ccbd0d6b30233ee.png",
+    "static/media/twitter.png": "/FlexFit-Website/static/media/twitter.6037388c4904c56447ef.png",
+    "static/media/ImgTrainerLogo.png": "/FlexFit-Website/static/media/ImgTrainerLogo.bbadabe0d37f0d56e95d.png",
+    "static/media/TrainerLogo.png": "/FlexFit-Website/static/media/TrainerLogo.bbadabe0d37f0d56e95d.png",
+    "static/media/CustomerLogo.png": "/FlexFit-Website/static/media/CustomerLogo.4f7f6dab72628e386b86.png",
+    "static/media/instagram.png": "/FlexFit-Website/static/media/instagram.04113f96d8b77b3752bb.png",
+    "static/media/ImgGymLogo.png": "/FlexFit-Website/static/media/ImgGymLogo.866f1cf9b9bec1761891.png",
+    "static/media/ImgQuotesLogo.png": "/FlexFit-Website/static/media/ImgQuotesLogo.a5bc2701b3e90f8bbbc5.png",
+    "static/media/LikeLogo.png": "/FlexFit-Website/static/media/LikeLogo.8a16a1b02b5be3ac6710.png",
+    "static/media/ExperienceLogo.png": "/FlexFit-Website/static/media/ExperienceLogo.58009d986ef68d00e1ea.png",
+    "static/media/ImgCalender.png": "/FlexFit-Website/static/media/ImgCalender.35698a202e531b6c6326.png",
+    "index.html": "/FlexFit-Website/index.html",
+    "main.936ae5b7.css.map": "/FlexFit-Website/static/css/main.936ae5b7.css.map",
+    "main.a3c0eaed.js.map": "/FlexFit-Website/static/js/main.a3c0eaed.js.map",
+    "787.ebd2aede.chunk.js.map": "/FlexFit-Website/static/js/787.ebd2aede.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.936ae5b7.css",
+    "static/js/main.a3c0eaed.js"
+  ]
+}
